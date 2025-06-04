@@ -4,7 +4,7 @@ A responsive and interactive personal portfolio website to showcase my skills, p
 
 ## 🌐 Live Demo
 
-[Click here to view the website](https://abdulmalik812.github.io/Malik-Portfolio)
+[Click here to view the website](https://abdulmalik812.github.io/SDE-portfolio/)
 
 ## 🛠️ Tech Stack
 
